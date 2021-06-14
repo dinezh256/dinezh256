@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dinezh256?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDinezh256&screen_name=Dinezh256)
 
-### I'm a Freelancer, Fullstack Developer  & a tech enthusiast!
+### I'm a Freelancer, Fullstack Developer & a tech enthusiast!
 
 - 🌱 Learning and building everyday 😊
-- 🧐 Currently looking for a Fullstack Developer role
+- 🧐 Looking for new opportunities
 - 🚀 2021 Goals: Improve day by day
 
 ### Connect with me:
