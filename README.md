@@ -4,7 +4,7 @@
 
 ### I'm a Freelancer, Fullstack Developer & a tech enthusiast!
 
-- 🌱 Learning and building everyday 😊
+- 🌱 Learning & building everyday 😊
 - 🧐 Looking for new opportunities
 - 🚀 2021 Goals: Improve day by day
 
