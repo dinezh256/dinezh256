@@ -6,7 +6,7 @@
 
 - 🌱 Learning & building everyday 😊
 - 🧐 Looking for new opportunities
-- 🚀 2022 Goals: Improve day by day
+- 🚀 2023 Goals: Work on backlog side projects
 
 ### Connect with me:
 
