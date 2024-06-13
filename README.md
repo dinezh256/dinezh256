@@ -38,7 +38,7 @@
 
 ### 📊 GitHub Stats
 <br />
-<img align="left" alt="Dinesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinezh256&theme=midnight-purple&show_icons=true&hide_border=true" />
+<img align="left" alt="Dinesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dinezh256&theme=ambient_gradient&show_icons=true&hide_border=true" />
  
 
 [linkedin]: https://www.linkedin.com/in/dinesh-shaw-60343361/
