@@ -28,7 +28,7 @@
 <img align="left" alt="JS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwqaVADCvOY_CrNbLqTGAOGEgK50pIoRzDvg&usqp=CAU" />
 <img align="left" alt="SQL" width="26px" src="https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-512.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/250px-Git_icon.svg.png?_=20220905010122" />
 <img align="left" alt="GitHub" width="26px" src="https://www.freeiconspng.com/uploads/git-github-hub-icon-25.png" />
 
 <br />
