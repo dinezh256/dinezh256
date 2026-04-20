@@ -11,7 +11,7 @@
 
 [<img align="left" alt="dinezh256 | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png" />][linkedin]
 [<img align="left" alt="dinezh256 | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
-[<img align="left" alt="dinezh256 | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/960px-X_icon.svg.png" />][x]
+[<img align="left" alt="dinezh256 | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/960px-X_icon.svg.png" />][twitter]
 [<img align="left" alt="dinezh256 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png?_=20200512141346" />][instagram]
 
 <br />
